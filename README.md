@@ -2,6 +2,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akul-Kaushal&show_icons=true&locale=en&layout=compact" alt="Top Lang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramcs17&show_icons=true&locale=en" alt="Stat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akul-Kaushal&show_icons=true&locale=en" alt="Stat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramcs17&" alt="Contri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akul-Kaushal&" alt="Contri" /></p>

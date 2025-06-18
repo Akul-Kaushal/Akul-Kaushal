@@ -1,5 +1,7 @@
 <p align= center"> <a href="https://app.daily.dev/hunt3r1009i"><img src="https://api.daily.dev/devcards/v2/3OajrCpIhc5Qh2sceqyhC.png?type=wide&r=h26" width="652" alt="Akul Kaushal's Dev Card"/></a> </p>
 
+<p align= left> <img src="https://tryhackme-badges.s3.amazonaws.com/akulkaushal.main.png" alt="Your Image Badge" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akul-kaushal&label=Profile%20views&color=0e75b6&style=flat" alt="akul-kaushal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akul-kaushal" alt="akul-kaushal" /></a> </p>

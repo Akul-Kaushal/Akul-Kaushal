@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [CAP_Astra](https://github.com/Akul-Kaushal/CAP_astra.git)
 
-- 👨‍💻 All of my projects are available at [Akul-Kaushal.me](Akul-Kaushal.me)
+- 👨‍💻 All of my projects are available at [Akul-Kaushal.me](https://Akul-Kaushal.me)
 
 - 📫 How to reach me **akulkaushal.main@gmail.com**
 

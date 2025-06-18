@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akul-kaushal" alt="akul-kaushal" /></a> </p>
 
-- 🔭 I’m currently working on [BookWorm_Blossom](https://github.com/Akul-Kaushal/BookWorm_Blossom.git)
+- 🔭 I’m currently working on [CAP_Astra](https://github.com/Akul-Kaushal/CAP_astra.git)
 
 - 🌱 I’m currently learning **React, fastapi**
 
-- 👯 I’m looking to collaborate on [BookWorm_Blossom](https://github.com/Akul-Kaushal/BookWorm_Blossom.git)
+- 👯 I’m looking to collaborate on [CAP_Astra](https://github.com/Akul-Kaushal/CAP_astra.git)
 
 - 👨‍💻 All of my projects are available at [Akul-Kaushal.me](Akul-Kaushal.me)
 
